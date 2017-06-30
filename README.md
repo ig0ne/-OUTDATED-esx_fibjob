@@ -13,8 +13,10 @@ https://github.com/indilo53/fivem-es_extended
  * Menu intéractions de esx_policejob (https://github.com/indilo53/fivem-esx_policejob)
 
 **Installation**
- * Copier le dossier cfx-server/ressources
+ * Copier le dossier esx_fibjob et skinchanger cfx-server/ressources
  * Importer fib.sql dans votre base de données
+ 
+ * Skinchanger est une modification du script de base de indilo qui ajoute plusieurs texture et accessoires
 
 #Script original ==> https://github.com/indilo53
 
@@ -23,7 +25,9 @@ https://github.com/indilo53/fivem-es_extended
 https://github.com/indilo53/fivem-es_extended
 
 **Installation**
- * Copy the folder in cfx-server/ressources
+ * Copy the folder esx_fibjob and skinchanger in cfx-server/ressources
  * Import fib.sql in your database
+ 
+ * Skinchanger is a modification of the original script by indilo, adding some texture and accesories 
 
 #Original script ==> https://github.com/indilo53
