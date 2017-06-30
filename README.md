@@ -10,6 +10,7 @@ https://github.com/indilo53/fivem-es_extended
  * plusieurs TP dans les bureaux du FIB et à l'exterieur
  * Garage Voiture, Bateaux, Hélico
  * Armurerie
+ * Menu intéractions de esx_policejob (https://github.com/indilo53/fivem-esx_policejob)
 
 **Installation**
  * Copier le dossier cfx-server/ressources
